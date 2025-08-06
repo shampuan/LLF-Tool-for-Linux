@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=LLF Tool for Linux
+Comment=Low Level Format aracı
+Exec=/usr/share/LLF_Tool_for_Linux/LLF_Tool_for_Linux.py
+Icon=llf-tool.png
+Terminal=false
+Categories=Utility;System;
+
