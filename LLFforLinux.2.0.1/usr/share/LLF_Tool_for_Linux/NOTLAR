@@ -1,0 +1,15 @@
+
+
+ddrescue programa entegre edilecek (subprocess ile).
+
+zero fill başladığında, back butonunu pasif etmeliyiz (setEnabled(False)).
+
+Log ekranına uyarı metninin sonundaki formatlama kısmını basacağız. 
+
+ddrescue'den gelen veriyi saniyede bir okutup progressbar'ı dolduracağız. 
+
+ddrescue çıktısını aynı zamanda log ekranına ve yazma hızı, yüzde kaç tamamlandı vb kısmına basacağız. 
+
+Kullanıcı işlemi stop ile durdurabilmeli. BUNU UNUTMAMAMIZ GEREK.
+
+
